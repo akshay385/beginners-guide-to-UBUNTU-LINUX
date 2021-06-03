@@ -5,3 +5,11 @@ I heartly recommend UBUNTU 16.04 LTS you can have a view here https://www.youtub
 
 since ubuntu is shell-based operating system it uses Terminal which is a command-line interface(or shell) By default the Terminal in UBUNTU and MACOS runs the so-called bash shell, which supports a set of commands let us see the different commands
 
+# opening a terminal  
+to open a terminal in UBUNTU go to search and type as terminal or to quickly open a terminal window at any time, press Ctrl+Alt+T. A graphical GNOME Terminal window will pop 
+right up.
+
+
+
+
+
